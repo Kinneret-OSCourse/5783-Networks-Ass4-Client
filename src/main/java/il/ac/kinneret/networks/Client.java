@@ -2,6 +2,6 @@ package il.ac.kinneret.networks;
 
 public class Client {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        /// TODO: Fill in client code!
     }
 }
